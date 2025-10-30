@@ -41,6 +41,7 @@ DATASETS_EXP
 | :--- | :--- |
 | **TCC_2.ipynb** | Arquivo Jupyter Notebook usado para realizar os experimentos. |
 | **sorter.py** | Script escrito em Python para ler os arquivos de `label` do *dataset* CNRPark-EXT e organizar os arquivos em novos diretórios (`Train`) e (`Test`). |
+| **fractor.py** | Script escrito em Python para realizar um random subsampling de 5% do dataset PKLot já organizado em (`Train`) e (`Test`). |
 | **DATASETS_EXP/** | Diretório principal do projeto, contendo todos os dados de entrada, modelos treinados e resultados experimentais. |
 | **./Augments/** | Diretório destinado a armazenar amostras de oclusões coletadas. |
 | **./Augments/LightPole/** | Subdiretório contendo imagens de postes de luz (`LightPole`). |
