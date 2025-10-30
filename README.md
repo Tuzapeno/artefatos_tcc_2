@@ -10,6 +10,9 @@ https://drive.google.com/drive/folders/1-6LHC79H50vr8jsI7T9FVaM9TH1j0clV?usp=sha
 - http://cnrpark.it/
 - https://web.inf.ufpr.br/vri/databases/parking-lot-database/
 
+### Obs:
+O dataset PKLot foi separado pegando o metade dos dias de cada câmera para treino e o restante para teste, consequentemente o mesmo dia não aparece no treino e no teste. 
+
 ## Estrutura dos diretórios
 
 ```
